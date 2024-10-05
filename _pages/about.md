@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Mr Haotong Xu is a PhD student in the School of Mechanical, Medical & Process Engineering (MMPE), Queensland University of Technology (QUT). He has a dual BEng in Internet of Things Engineering from Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL), and a MSc in Computer Science from the University of Hong Kong (HKU).
+Mr Haotong Xu is a PhD student in the School of Mechanical, Medical & Process Engineering, Queensland University of Technology (QUT). He has a dual BEng in Internet of Things Engineering from Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL), and a MSc in Computer Science from the University of Hong Kong (HKU).
 
 My research interest includes deep learning, computer vision, medical image processing, CT coronary angiography (CTCA). My current project focus on enhancing the diagnosis of coronary artery disease through deep learning methods.
 <!--
@@ -25,11 +25,17 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
+<!--
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+
+# 📖 Educations
+- *2023.11 - present*, Doctor of Philosophy, Queensland University of Technology.
+- *2022.09 - 2023.12*, Master of Science in Computer Science, The University of Hong Kong (香港大学). 
+- *2018.09 - 2022.06*, Bachelor of Engineering in Internet of Things Engineering, Beijing University of Posts and Telecommunications (北京邮电大学) & Queen Mary University of London. 
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,19 +49,16 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+-->
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.05* QUT Supervisor Scholarship & Tuition Fee Sponsorship
+- *2020.12* BUPT third-class scholarship
 
-# 📖 Educations
-- *2023.11 - present*, Doctor of Philosophy, Queensland University of Technology.
-- *2022.09 - 2023.12*, Master of Science in Computer Science, The University of Hong Kong (香港大学). 
-- *2018.09 - 2022.06*, Bachelor of Engineering in Internet of Things Engineering, Beijing University of Posts and Telecommunications (北京邮电大学) & Queen Mary University of London. 
 
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
